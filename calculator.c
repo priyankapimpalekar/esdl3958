@@ -17,4 +17,10 @@ void main()
  {
   return a-b;
  }
+
+ int multiply(int p,int q)
+ {
+  return a*b;
+ }
+
 }
